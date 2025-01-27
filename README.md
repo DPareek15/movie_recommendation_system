@@ -1,6 +1,7 @@
 # Movie Recommendation System
 
 This is a content-based movie recommender system which suggests related movies based on the movie selected by the user.
+The deployed website can be visited [here](https://movie-recommendation-system-dp.streamlit.app/).
 
 ## Relevant Links
 
